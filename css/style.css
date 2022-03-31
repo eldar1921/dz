@@ -128,8 +128,8 @@ body{
     color: silver;
     margin-right: 55px;
     margin-bottom: 66px; 
-    width: 395px;
-    height: 313px;
+    width: 410px;
+    height: 290px;
     margin-top: 70px;
 }
 .block2{
@@ -165,10 +165,10 @@ p{
     display: flex;
 }
 .image-visit{
-    margin-right: 200px;
+    margin-right: 100px;
 }
 .image1-visit{
-    margin-right: 140px;
+    margin-right: 110px;
 }
 .button-visit{
     background-color: #FF6E30;
@@ -197,7 +197,7 @@ p{
 .content-tools{
     display: flex;
 }
-.block-brand{
+.block-brand{   
     text-align: center;
     background-color: #252c328a;
     height: 238px;
@@ -232,6 +232,9 @@ p{
     border-radius: 10px;
     padding: 10px 34px;
 }
+.tool__button{
+    margin-right: 110px;
+}
 .tools-block{
     /* display: flex; */
 }
@@ -247,7 +250,7 @@ p{
 .main-block2-tools{
     display: flex;
 }
-newcomer {
+.newcomer {
     margin-top: 200px;
 }
 .newcomer-wrapper {
@@ -302,7 +305,6 @@ newcomer {
 .tool__buttons {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
 }
 .tool__name {
     display: flex;
@@ -352,6 +354,12 @@ newcomer {
 .person {
     position: absolute;
     margin-left: 187px;
+}
+.ronald{
+    position: absolute;
+    left: 336px;
+    top: 372px;
+
 }
 .testimonial-description {
     font-weight: 400;
